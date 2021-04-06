@@ -1,0 +1,65 @@
+{
+  "title": "Koi ni Koisuru Yukari-chan",
+  "description": "Are Takagi-san and Nishikata-kun going out?\n\nGrand prize winner in the Takagi-san cup! A girly(?) love comedy about Takagi-san’s classmates. Written with the seal of approval from the original author, Yamamoto Souichirou.",
+  "artist": "Suzu Yuuma",
+  "author": "Suzu Yuuma, Yamamoto Souichirou",
+  "cover": "https://cdn.discordapp.com/attachments/823427773192208415/823428125336535060/pic_001.jpg",
+  "chapters": {
+    "7": {
+      "title": "Pretending Sports Meet",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/iFtJow3/"
+      },
+      "last_updated": "1617689109"
+    },
+   "8": {
+      "title": "Slumber Party",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/OCv7dkF/"
+      },
+      "last_updated": "1617689109"
+    },
+   "9": {
+      "title": "Meeting",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/BOauTxA/"
+      },
+      "last_updated": "1617689109"
+    },
+   "10": {
+      "title": "Napping",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/qky6Ovc/"
+      },
+      "last_updated": "1617689109"
+    },
+   "11": {
+      "title": "The Taste of Kiss",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/hEhn1QR/"
+      },
+      "last_updated": "1617689109"
+    },
+   "12": {
+      "title": "Hatsumode",
+      "volume": "2,
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/p6FtbIn/"
+      },
+      "last_updated": "1617689109"
+    },
+   "13": {
+      "title": "Valentine",
+      "volume": "2,
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/AIsFqsr/"
+      },
+      "last_updated": "1617689109"
+    }
+  }
+}
