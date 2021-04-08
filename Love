@@ -1,0 +1,57 @@
+{
+  "title": "Love",
+  "description": "Autumn in the first year of high school, when you' re dating the person you love. What will the scenery be like every day with you? This is an all-school youth romantic comedy depicting various forms of love.",
+  "artist": "Kaname Monika",
+  "author": "Kaname Monika",
+  "cover": "https://wearerandomscans.files.wordpress.com/2020/11/lovecunetnoise_scalelevel3x2.000000.jpg",
+  "chapters": {
+    "1": {
+      "title": "The Beginning",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/MLHV5Ak/"
+      },
+      "last_updated": "1617843416"
+    },
+   "2": {
+      "title": "Report",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/gjj1LBW/"
+      },
+      "last_updated": "1617843416"
+    },
+   "3": {
+      "title": "Rumors",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/elFlkwx/"
+      },
+      "last_updated": "1617843416"
+    },
+   "4": {
+      "title": "Courage",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/6muj6NF/"
+      },
+      "last_updated": "1617843416"
+    },
+   "5": {
+      "title": "Invitation",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/HxFJXkG/"
+      },
+      "last_updated": "1617843416"
+    },
+   "6": {
+      "title": "The First Date",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/YqUdHwL/"
+      },
+      "last_updated": "1617843416"
+    }
+  }
+}
