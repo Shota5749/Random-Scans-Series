@@ -1,0 +1,33 @@
+{
+  "title": "Incomplete Theorem",
+  "description": "A youthful school life story centered around two problematic teenagers, a germophobic tsundere boy and an airhead girl with a sleeping disorder.",
+  "artist": "Potetote",
+  "author": "Potetote",
+  "cover": "https://cdn.discordapp.com/attachments/808326063339077635/829654976582254612/New_icon_pogCUnetnoise_scaleLevel0x2.000000.png",
+  "chapters": {
+    "1": {
+      "title": "Encounter With The Unknown",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/xSZOb8E/"
+      },
+      "last_updated": "1617943347"
+    },
+   "2": {
+      "title": "Infamous Person",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/294QZIj/"
+      },
+      "last_updated": "1617945450"
+    },
+   "3": {
+      "title": "Bento Box",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/jcIKbWe/"
+      },
+      "last_updated": "1617945579"
+    }
+  }
+}
