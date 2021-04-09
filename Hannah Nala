@@ -1,0 +1,81 @@
+{
+  "title": "Hannah Nala",
+  "description": "A story about a married couple in their daily lives. Inspired by the author and his wife’s life.",
+  "artist": "Egi MugiaEgi Mugia",
+  "author": "Egi Mugia",
+  "cover": "https://cdn.discordapp.com/attachments/823427773192208415/823863792537829396/pic_017.png",
+  "chapters": {
+    "1": {
+      "title": "The Start",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/5GUG6BM/"
+      },
+      "last_updated": "1617961715"
+    },
+   "2": {
+      "title": "Key",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/pD4X0VF/"
+      },
+      "last_updated": "1617961795"
+    },
+   "3": {
+      "title": "Forgot",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/stW3Qj4/"
+      },
+      "last_updated": "1617962101"
+    },
+   "4": {
+      "title": "Feed",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/dCfST6k/"
+      },
+      "last_updated": "1617962236"
+    },
+   "5": {
+      "title": "Night Snacks",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/GoXIAKP/"
+      },
+      "last_updated": "1617962358"
+    },
+   "6": {
+      "title": "Drama Queen",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/dMIqicu/"
+      },
+      "last_updated": "1617962595"
+    },
+   "7": {
+      "title": "Eat",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/CI9BvUn/"
+      },
+      "last_updated": "1617962696"
+    },
+   "8": {
+      "title": "Angry",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/uyZNEgp/"
+      },
+      "last_updated": "1617962765"
+    },
+   "9": {
+      "title": "Body Weight",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/cYYmQ1p/"
+      },
+      "last_updated": "1617962808"
+    }
+  }
+}
