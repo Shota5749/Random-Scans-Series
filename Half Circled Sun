@@ -1,0 +1,25 @@
+{
+  "title": "1/2 Circled Sun",
+  "description": "Arka is like a sun to Kayra, illuminating the heart and days of Kayra's life at school. But, will Arka's light continue to smile at her?",
+  "artist": "Chairunnisa Puspasari",
+  "author": "Chairunnisa Puspasari",
+  "cover": "https://cdn.discordapp.com/attachments/823427773192208415/823859111283916810/pic_011.jpg",
+  "chapters": {
+    "0": {
+      "title": "Prolouge",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/F4tz07T/"
+      },
+      "last_updated": "1618151565"
+    },
+   "1": {
+      "title": "About Sun",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/PzTfZDN/"
+      },
+      "last_updated": "1618151662"
+    }
+  }
+}
