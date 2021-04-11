@@ -1,0 +1,17 @@
+{
+  "title": "Assassin ROSE",
+  "description": "A story about two brothers struggling to survive in the mafia.",
+  "artist": "Odayaka",
+  "author": "Sayu",
+  "cover": "https://cdn.discordapp.com/attachments/823427773192208415/823852784277127218/Assasin_ROSECUnetnoise_scaleLevel3x2.000000.jpg",
+  "chapters": {
+    "0": {
+      "title": "Chapter 0",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/o9aealX/"
+      },
+      "last_updated": "1618150816"
+    }
+  }
+}
