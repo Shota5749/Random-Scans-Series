@@ -1,0 +1,17 @@
+{
+  "title": "Twin Connect",
+  "description": "They said that twins are always close to each other, but the twins Rizki and Rizka are always competing in everything, even in love affairs!",
+  "artist": "tiansenou",
+  "author": "tiansenou",
+  "cover": "https://cdn.discordapp.com/attachments/831186123874631700/836553728411566130/M_details.jpg",
+  "chapters": {
+    "3": {
+      "title": "Chapter 3",
+      "volume": "1",
+      "groups": {
+        "Random Scans and Palace of Pooches": "/proxy/api/imgur/chapter/1itpR6a/"
+      },
+      "last_updated": "1619521607"
+    }
+  }
+}
