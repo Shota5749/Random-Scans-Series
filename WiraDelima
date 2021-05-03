@@ -1,0 +1,49 @@
+{
+  "title": "WiraDelima",
+  "description": "A story about Wira, a boy ABSOLUTELY in love with Delima, his upperclassman. But Delima is insecure about her petite figure. How far is Wira willing to go to keep seeing Delima’s smile?",
+  "artist": "Qoni",
+  "author": "Qoni",
+  "cover": "https://cdn.discordapp.com/attachments/823427773192208415/823862900287602688/pic_014.jpg",
+  "chapters": {
+    "0": {
+      "title": "Prologue",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/v1lkvly/"
+      },
+      "last_updated": "1620015161"
+    },
+   "1": {
+      "title": "Fate",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/JAh6Wcf/"
+      },
+      "last_updated": "1620015573"
+    },
+   "2": {
+      "title": "Smile",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/HLE6DOt/"
+      },
+      "last_updated": "1620015887"
+    },
+   "3": {
+      "title": "Practice",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/vWPpJZX/"
+      },
+      "last_updated": "1620015943"
+    },
+   "4": {
+      "title": "Practice Again",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/YNJDa0z/"
+      },
+      "last_updated": "1620015998"
+    }
+  }
+}
