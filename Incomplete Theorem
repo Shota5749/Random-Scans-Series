@@ -28,6 +28,22 @@
         "Random Scans": "/proxy/api/imgur/chapter/jcIKbWe/"
       },
       "last_updated": "1617945579"
+    },
+   "4": {
+      "title": "Lewis Carroll",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/UoPLY2j/"
+      },
+      "last_updated": "1620180979"
+    },
+  "5": {
+      "title": "Their Daily Life",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/QRpMwCa/"
+      },
+      "last_updated": "1620181025"
     }
   }
 }
