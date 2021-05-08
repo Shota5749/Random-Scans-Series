@@ -44,6 +44,46 @@
         "Random Scans": "/proxy/api/imgur/chapter/YNJDa0z/"
       },
       "last_updated": "1620015998"
+    },
+   "5": {
+      "title": "Continuation Of Previous Episodes",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/xy4xulx/"
+      },
+      "last_updated": "1620466531"
+    },
+   "6": {
+      "title": "Cartoon Character",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/ckpwMzF/"
+      },
+      "last_updated": "1620466579"
+    },
+   "7": {
+      "title": "Still Curious",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/9Nn1csM/"
+      },
+      "last_updated": "1620466620"
+    },
+   "8": {
+      "title": "Video Call",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/KYWUrwZ/"
+      },
+      "last_updated": "1620466668"
+    },
+   "9": {
+      "title": "Salim",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/LGHQnZ2/"
+      },
+      "last_updated": "1620466718"
     }
   }
 }
