@@ -1,1 +1,1 @@
-curl https://git.io/ -i -F "url=https://gist.githubusercontent.com/Shota5749/14b23e04dce6d680aeb8f7e8b975e161/raw/cd9f76d149b96eb02685aeaa1799f8838a867e92/HannahNala" -F "code=HannahNala"
+curl https://git.io/ -i -F "url=https://raw.githubusercontent.com/Shota5749/Random-Scans-Series/series/Hannah%20Nala" -F "code=HannahNala"
