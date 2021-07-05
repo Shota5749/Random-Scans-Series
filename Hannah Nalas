@@ -79,5 +79,3 @@
     }
   }
 }
-
-curl https://git.io/ -i -F "url=https://raw.githubusercontent.com/Shota5749/Random-Scans-Series/series/Hannah%20Nalas" -F "code=HannahNalaps"
